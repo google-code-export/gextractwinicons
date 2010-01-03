@@ -1,0 +1,8 @@
+#summary Screenshots
+#labels Phase-Design,Featured
+
+[Screenshots_en] for english localization
+
+[Screenshots_it] for italian localization
+
+[Screenshots_fr] for french localization
