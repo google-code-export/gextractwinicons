@@ -1,0 +1,6 @@
+#summary Screenshots for spanish localization
+#labels Phase-Design
+
+http://www.ubuntutrucchi.it/gextractwinicons/current/es/main.png
+
+http://www.ubuntutrucchi.it/gextractwinicons/current/es/about.png
