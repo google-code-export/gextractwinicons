@@ -1,0 +1,6 @@
+#summary Screenshots for russian localization
+#labels Phase-Design
+
+http://www.ubuntutrucchi.it/gextractwinicons/current/ru/main.png
+
+http://www.ubuntutrucchi.it/gextractwinicons/current/ru/about.png
