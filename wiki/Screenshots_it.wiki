@@ -1,4 +1,4 @@
-#summary Screenshots for italian localization
+#summary Screenshots for Italian localization
 #labels Phase-Design
 
 http://www.ubuntutrucchi.it/gextractwinicons/current/it/main.png
